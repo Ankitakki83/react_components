@@ -1,0 +1,30 @@
+.BodyComponent {
+    background-color: rgb(185, 212, 224);
+    height: 500px;
+    margin: 5px 10px 0px 10px;
+}
+
+.BodyComponent_topleft {
+    height: 230px;
+    width: 44%;
+    background-color: rgb(119, 201, 236);
+    margin: 5px 10px 5px 10px;
+}
+
+.BodyComponent_topleft_input {
+    text-align: center;
+    padding: 10%;
+}
+
+.BodyComponent_topright {
+    height: 230px;
+    width: 44%;
+    background-color: rgb(119, 201, 236);
+    margin: 20px 10px 5px 10px;
+    vertical-align: right;
+    align-self: auto;
+}
+
+.BodyComponent_topleft_btn {
+    width: 100px;
+}
